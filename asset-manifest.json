@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/harishcarpenter/static/css/main.fc4b1428.css",
+    "main.js": "/harishcarpenter/static/js/main.0e72f1dc.js",
+    "static/media/man3d.png": "/harishcarpenter/static/media/man3d.88aa68455d3ac0cceeb0.png",
+    "static/media/todo.jpg": "/harishcarpenter/static/media/todo.65f6983b4362333643d4.jpg",
+    "static/media/back.png": "/harishcarpenter/static/media/back.e7a69a448203a1acab35.png",
+    "static/media/clouds.jpg": "/harishcarpenter/static/media/clouds.5ecf98bee910dae2bf20.jpg",
+    "static/media/devbhoomihack.jpg": "/harishcarpenter/static/media/devbhoomihack.fac7589b68d228d819a1.jpg",
+    "static/media/web-development.png": "/harishcarpenter/static/media/web-development.5f94236f6711ef56af6d.png",
+    "static/media/instagram.png": "/harishcarpenter/static/media/instagram.79535458a8a6d88f81d4.png",
+    "static/media/telephone-call.png": "/harishcarpenter/static/media/telephone-call.0f351ccf53cadfc95d4d.png",
+    "static/media/work-in-progress.png": "/harishcarpenter/static/media/work-in-progress.3f6bb343741669a2d2ff.png",
+    "static/media/Head-Image.png": "/harishcarpenter/static/media/Head-Image.4591769be0e8132548e8.png",
+    "static/media/github.png": "/harishcarpenter/static/media/github.f3d873d71aa989badfd2.png",
+    "static/media/solved.png": "/harishcarpenter/static/media/solved.113033fa00af8170ae93.png",
+    "static/media/linkedin.png": "/harishcarpenter/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/kali.png": "/harishcarpenter/static/media/kali.e7c3ccc69811d5abb8c8.png",
+    "static/media/framework.png": "/harishcarpenter/static/media/framework.be4baa04b89ec8048d63.png",
+    "static/media/coding.png": "/harishcarpenter/static/media/coding.12469f3ed517d6d03c8a.png",
+    "index.html": "/harishcarpenter/index.html",
+    "main.fc4b1428.css.map": "/harishcarpenter/static/css/main.fc4b1428.css.map",
+    "main.0e72f1dc.js.map": "/harishcarpenter/static/js/main.0e72f1dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc4b1428.css",
+    "static/js/main.0e72f1dc.js"
+  ]
+}
